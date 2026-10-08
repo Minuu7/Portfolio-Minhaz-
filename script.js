@@ -136,13 +136,13 @@ document.addEventListener('DOMContentLoaded', async function () {
  const educationData = [
     {
       degree: "B.Sc. in Computer Science & Engineering",
-      institution: "Premier UNiversity Chittagong",
+      institution: "Premier University Chittagong",
       period: "2023 – 2027",
-      description: "Focused on Data Analysis, AI, and Machine Learning."
+      description: "Focused on Data Science, AI, and Machine Learning."
     },
     {
       degree: "School & Higher Secondary School",
-      institution: "Navy Anchora School & College Chattogram",
+      institution: "Navy Anchorage School & College Chattogram",
       period: "2015 – 2021",
       description: "Science stream."
     }
